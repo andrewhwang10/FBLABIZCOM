@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="app_name">FBLA BIZCOM</string>
+    <string name="APP_ID">714299588614989</string>
+    <string name="title">FBLA Business Communications</string>
+    <string name="action_settings">Settings</string>
+    <string name="play">Play</string>
+    <string name="help">Help</string>
+    <string name="trueButton">True</string>
+    <string name="titleResult"><u>Results</u></string>
+    <string name="falseButton">False</string>
+    <string name="game">game</string>
+    <string name="share">Share</string>
+    <string name="title_activity_game">Game</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_help">Help</string>
+    <string name="helpDisplay">Email Support @ HazenFBLASecretary@gmail.com</string>
+    <string name="app_id">1389xxxxxxxx</string>
+    <string name="facebook_login">Facebook Login</string>
+    <string name="title_activity_results">Results</string>
+
+    <string-array name="true_questions" translatable="false">
+        <item>Posture projects your level of confidence.</item>
+        <item>Nonverbal messages can stand alone or accompany verbal messages.</item>
+        <item>In the closing of an oral presentation, you should summarize main points.</item>
+        <item>Analyzing your audience is an important part of planning for an oral presentation.</item>
+        <item>Formal reports are longer and more complex than informal reports.</item>
+        <item>A periodic report is used when managers need information at specific intervals, for example, a monthly sales report.</item>
+        <item>"Please send me a new pair of socks" would be a good opening for a claim letter.</item>
+        <item>In positive responses, the main idea of the letter comes before the letter\'s supporting information.</item>
+        <item>Most bad-news messages should be written in the indirect order..</item>
+        <item>Memos are generally less formal than communications sent outside the company.</item>
+        <item>Proofreading the hard copy, even after proofing on screen, ensures the accuracy of a document.</item>
+        <item>In a business communication, there usually is an opening paragraph, one or more developmental paragraphs, and a closing paragraph.</item>
+        <item>In the active voice, the subject of the sentence performs the action of the verb.</item>
+        <item>Each sentence in a business communication should express one clear thought.</item>
+        <item>The words police officer, technician, and server are all neutral, or unbiased.</item>
+        <item>Effective listening requires an open mind.</item>
+        <item>Because an application letter is a persuasive letter, organize it as you would a sales letter.</item>
+        <item>Good listening skills can improve speaking skills.</item>
+        <item>In the closing of an oral presentation, you should summarize main points.</item>
+        <item>The central idea of the message is the same as the purpose of the message.</item>
+        <item>In an active voice, the subject of the sentence performs the action of the verb.</item>
+        <item>Authorities generally agree that speaking is the weakest link in oral communication.</item>
+        <item>Proofreading the hard copy, even after proofing on screen, helps guarantee the accuracy of a document.</item>
+        <item>Nonverbal language reflects the values of the culture to which it belongs.</item>
+        <item>The grapevine is no more and no less accurate than any other communication.</item>
+    </string-array>
+    <string-array name="false_questions">
+        <item>Repeating the subject line information in the first sentence of a memo or e-mail is redundant and should be avoided.</item>
+        <item>Most people remember what they hear much longer than what they see.</item>
+        <item>A letter with mixed punctuation has a comma after the salutation and no mark of punctuation after the complimentary close.</item>
+        <item>The central idea of the message is the same as the purpose of the message.</item>
+        <item>Though people around the world speak different languages, nonverbal communication, such as gestures and facial expressions, generally have the same meaning.</item>
+        <item>Nonverbal messages cannot stand alone or accompany verbal messages.</item>
+        <item>The "strong slot" in a sentence is at the beginning of the sentence.</item>
+        <item>The audience for most business writing is seldom neutral.</item>
+        <item>Written messages contain only verbal symbols, no nonverbal messages.</item>
+        <item>Memorizing a presentation is usually an effective way to prepare for the delivery of an oral presentation.</item>
+        <item>Most people remember what they hear much longer than what they see.</item>
+        <item>A receiver-oriented message contains mostly first-person pronouns, such as we and us.</item>
+        <item>The following sentence is a good example of the you attitude: "You did not send me the correct information."</item>
+        <item>The main idea of a well-written business message is in the first sentence.</item>
+    </string-array>
+
+</resources>
